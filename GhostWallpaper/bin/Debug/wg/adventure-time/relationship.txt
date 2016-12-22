@@ -1,0 +1,6 @@
+0 6 marcie_house.jpg
+6 10 village.jpg
+10 14 forest.jpg
+14 18 candy_kingdom.jpg
+18 20 tree_house.jpg
+20 24 marcie_house.jpg

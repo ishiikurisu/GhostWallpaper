@@ -1,0 +1,6 @@
+20 24 nightwatch.png
+0 5 nightwatch.png
+5 9 dawnwatch.png
+9 14 daywatch.png
+14 17 workwatch.png
+17 20 dawnwatch.png

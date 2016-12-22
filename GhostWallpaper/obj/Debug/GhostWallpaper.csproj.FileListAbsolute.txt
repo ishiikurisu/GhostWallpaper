@@ -1,0 +1,6 @@
+C:\Users\cris\Documents\Visual Studio 2015\Projects\GhostWallpaper\GhostWallpaper\bin\Debug\GhostWallpaper.exe.config
+C:\Users\cris\Documents\Visual Studio 2015\Projects\GhostWallpaper\GhostWallpaper\bin\Debug\GhostWallpaper.exe
+C:\Users\cris\Documents\Visual Studio 2015\Projects\GhostWallpaper\GhostWallpaper\bin\Debug\GhostWallpaper.pdb
+C:\Users\cris\Documents\Visual Studio 2015\Projects\GhostWallpaper\GhostWallpaper\obj\Debug\GhostWallpaper.csprojResolveAssemblyReference.cache
+C:\Users\cris\Documents\Visual Studio 2015\Projects\GhostWallpaper\GhostWallpaper\obj\Debug\GhostWallpaper.exe
+C:\Users\cris\Documents\Visual Studio 2015\Projects\GhostWallpaper\GhostWallpaper\obj\Debug\GhostWallpaper.pdb
