@@ -1,6 +1,6 @@
 0 6 marcie_house.png
-6 10 village.png
-10 14 forest.png
-14 18 candy_kingdom.png
+6 10 barn.png
+10 14 village.png
+14 18 forest.png
 18 20 treehouse.png
 20 24 marcie_house.png
